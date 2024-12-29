@@ -1,0 +1,14 @@
+C:\Курс C#\Lesson8.1\Lesson8.3\bin\Debug\net9.0\Lesson8.3.exe
+C:\Курс C#\Lesson8.1\Lesson8.3\bin\Debug\net9.0\Lesson8.3.deps.json
+C:\Курс C#\Lesson8.1\Lesson8.3\bin\Debug\net9.0\Lesson8.3.runtimeconfig.json
+C:\Курс C#\Lesson8.1\Lesson8.3\bin\Debug\net9.0\Lesson8.3.dll
+C:\Курс C#\Lesson8.1\Lesson8.3\bin\Debug\net9.0\Lesson8.3.pdb
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.AssemblyInfoInputs.cache
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.AssemblyInfo.cs
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.csproj.CoreCompileInputs.cache
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.dll
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\refint\Lesson8.3.dll
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.pdb
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\Lesson8.3.genruntimeconfig.cache
+C:\Курс C#\Lesson8.1\Lesson8.3\obj\Debug\net9.0\ref\Lesson8.3.dll
